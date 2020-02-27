@@ -1,0 +1,41 @@
+name: "MA06A"
+output_dir: "docs"
+exclude: ["README.md", "\\.sh", "cache"]
+output:
+  html_document:
+    theme: cosmo
+    highlight: default
+    code_folding: hide
+    number_sections: false
+    toc: true
+    toc_depth: 4
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    includes:
+      in_header: analytics.html
+      after_body: footer.html
+navbar:
+  title: "MA06A"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Aulas"
+      href: aulas.html
+    - text: "Referências"
+      href: referencias.html
+    - text: "Programas"
+      href: programas.html
+    - text: "Notas"
+      href: notas.html
+    - text: "Materiais"
+      menu:
+      - text: "Slides"
+      - text: "Introdução à análise estatística descritiva"
+        href: slides/01_Analise_Estatistica_Descritiva.pdf
+      - text: "Probabilidades [PDF]"
+        href: slides/04_Probabilidades.pdf
+      - text: "Variáveis aleatórias discretas e contínuas [PDF]"
+        href: slides/05_Variaveis_Discretas_Continuas.pdf
+      - text: "Medidas resumo [PDF]"
+        href: slides/06_Medidas_Resumo.pdf

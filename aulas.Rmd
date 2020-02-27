@@ -1,0 +1,56 @@
+---
+title: "Cronograma das aulas do curso"
+output:
+  html_document:
+    toc: false
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+source("setup_knitr.R")
+```
+
+Abaixo está o cronograma inicial planejado para a disciplina. (Pode
+sofrer alterações).
+
+
+
+### MA06A - Matemática 6	T11
+
+- **Semana 01**: 02/03
+  - **aula 01**: Apresentação da disciplina
+- **Semana 02**: 09/03  
+  - **aula 02**: Introdução à análise exploratória de dados - Tema 1
+- **Semana 03**: 16/03
+  - **aula 03**: Exercícios
+- **Semana 04**: 23/03  
+  - **aula 04**: Teoria dos conjuntos - Tema 2
+- **Semana 05**: 30/03  
+  - **aula 05**: Exercícios
+- **Semana 06**: 06/04  
+  - **aula 06**: Análise combinatória - Tema 3
+- **Semana 07**: 13/04  
+  - **aula 07**: Revisão - (Temas 1, 2 e 3)
+- **Semana 08**: 27/04  
+  - **aula 08**: **Avaliação I - (Temas 1, 2 e 3)**
+- **Semana 09**: 11/05
+  - **aula 09**: Probabilidade - Tema 4
+- **Semana 10**: 18/05
+  - **aula 10**: Exercícios
+- **Semana 11**: 25/05 
+  - **aula 11**: Variáveis aleatórias - Tema 5
+- **Semana 12**: 01/06 
+  - **aula 12**: Exercícios
+- **Semana 13**: 08/06 
+  - **aula 13**: Medidas Resumo - Tema 6
+- **Semana 14**: 15/06 
+  - **aula 14**: Exercícios  
+- **Semana 15**: 22/06 
+  - **aula 15**: Revisão Avaliação II - (Temas 4, 5 e 6)
+- **Semana 16**: 29/06 
+  - **aula 16**: **Avaliação II - (Temas 4, 5 e 6)**
+
+<div class="alert alert-danger" role="alert">
+- AVALIAÇÃO FINAL 06/07 as 15:50h  
+</div>  
+  
+
