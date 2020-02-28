@@ -2,6 +2,7 @@ library(knitr)
 ## knitr options
 opts_chunk$set(
     ## cache = TRUE,
+    echo = FALSE,
     tidy = FALSE,
     comment = NA,
     collapse = TRUE, ## colapsa chunks em R Markdown
