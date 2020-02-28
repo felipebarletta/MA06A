@@ -36,6 +36,6 @@ navbar:
       - text: "Probabilidades [PDF]"
         href: slides/04_Probabilidades.pdf
       - text: "Variáveis aleatórias discretas e contínuas [PDF]"
-        href: slides/05_Variaveis_Discretas_Continuas.pdf
+        href: slides/05_Variaveis_Discretas_Contínuas.pdf
       - text: "Medidas resumo [PDF]"
         href: slides/06_Medidas_Resumo.pdf
